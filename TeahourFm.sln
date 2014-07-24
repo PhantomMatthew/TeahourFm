@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeahourFm", "TeahourFm\TeahourFm.csproj", "{EA6BA7EB-885F-49A0-89FE-B441C6544FFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlAgilityPack.fx.4.5", "HtmlAgilityPack\HtmlAgilityPack.fx.4.5.csproj", "{1028002A-BBE2-4FF2-94B7-A8368A8F6887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeahourFmGUI", "TeahourFmGUI\TeahourFmGUI.csproj", "{3BCD5AD4-36DE-4F46-8E2A-BE127E9757AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net", "log4net-1.2.13\src\log4net.csproj", "{181FE707-E161-4722-9F38-6AAAB6FAA106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6BA7EB-885F-49A0-89FE-B441C6544FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6BA7EB-885F-49A0-89FE-B441C6544FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6BA7EB-885F-49A0-89FE-B441C6544FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6BA7EB-885F-49A0-89FE-B441C6544FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1028002A-BBE2-4FF2-94B7-A8368A8F6887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1028002A-BBE2-4FF2-94B7-A8368A8F6887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1028002A-BBE2-4FF2-94B7-A8368A8F6887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1028002A-BBE2-4FF2-94B7-A8368A8F6887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCD5AD4-36DE-4F46-8E2A-BE127E9757AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCD5AD4-36DE-4F46-8E2A-BE127E9757AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCD5AD4-36DE-4F46-8E2A-BE127E9757AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCD5AD4-36DE-4F46-8E2A-BE127E9757AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181FE707-E161-4722-9F38-6AAAB6FAA106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181FE707-E161-4722-9F38-6AAAB6FAA106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181FE707-E161-4722-9F38-6AAAB6FAA106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181FE707-E161-4722-9F38-6AAAB6FAA106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

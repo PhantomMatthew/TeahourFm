@@ -1,0 +1,5 @@
+C:\SourceCode\TeahourFm\bin\Debug\log4net.dll
+C:\SourceCode\TeahourFm\bin\Debug\log4net.pdb
+C:\SourceCode\TeahourFm\bin\Debug\log4net.xml
+C:\SourceCode\TeahourFm\log4net-1.2.13\src\obj\Debug\log4net.dll
+C:\SourceCode\TeahourFm\log4net-1.2.13\src\obj\Debug\log4net.pdb
